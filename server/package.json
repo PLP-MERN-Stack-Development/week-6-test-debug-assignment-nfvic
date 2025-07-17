@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb-memory-server": "^10.1.4",
+    "mongoose": "^8.16.4",
+    "supertest": "^7.1.3"
+  }
+}
