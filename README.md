@@ -19,6 +19,7 @@ This project implements a comprehensive testing strategy for a MERN stack applic
 All backend integration and unit tests pass, as shown below:
 
 ![Backend Test Results](./test-results-screenshot.png)
+<img width="633" height="602" alt="image" src="https://github.com/user-attachments/assets/0676ed19-65a9-4543-81eb-de0471d7de99" />
 
 - **Test Suites:** 2 passed, 2 total
 - **Tests:** 16 passed, 16 total
